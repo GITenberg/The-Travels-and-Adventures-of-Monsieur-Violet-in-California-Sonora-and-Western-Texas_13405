@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/627
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13405#The-Travels-and-Adventures-of-Monsieur-Violet-in-California-Sonora-and-Western-Texas
 gutenberg_issued: '2004-09-09'
 gutenberg_type: Text
 identifiers:
